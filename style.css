@@ -1,0 +1,38 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: left;
+    color : red;
+}
+.center{
+
+    border-radius: 30%;
+}
+p{
+    font-size: 25px;
+    font-style: helvetica;
+    text-align: left;
+}
+th{
+    font-size: 23px;
+}
+td{
+    text-align: center;
+    font-size: 23px;
+}
+.a{
+    text-align: left;
+}
+
+table{
+    text-align: center;
+    width: 50%;
+    border-color:black;
+}
+.d{
+    text-align: left;
+    color: black;
+}
